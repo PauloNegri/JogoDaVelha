@@ -1,2 +1,2 @@
-module JogoDaVelha {
+module TrabalhosJava {
 }
