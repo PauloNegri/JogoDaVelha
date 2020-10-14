@@ -1,9 +1,12 @@
+package JogoDaVelha;
+
 import java.util.Scanner;
 
 public class JvMain {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
+		@SuppressWarnings("resource")
 		Scanner ler = new Scanner(System.in);
 		JV jogo = new JV();
 		String posicao;

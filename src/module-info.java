@@ -1,2 +1,2 @@
-module TrabalhosJava {
+module JAVA {
 }
